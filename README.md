@@ -2,9 +2,13 @@
 
 Este proyecto le permite gestionar  un modelo cactus a través de una Api creada con Django restframework.
 
+el protocolo WebSocket proporciona una comunicación bidireccional entre el servidor y el cliente. Podemos intercambiar información asíncrona sin la obligación de hacer más peticiones u obligar a un refresco del navegador; es posible enviar información al servidor en cualquier momento o recibirla
 ### Algunas caracteristicas principales: 
 
-#### -
+#### -Integración completa con Django y Websockets, por medio de Channels.
+#### -Respuestas asincronas con el objetivo de mejorar el rendimiento.
+#### -Salas individuales para mantener conversaciones privadas.
+#### -Front-End minimalista con Javascript para su fácil implementación en otros sistemas.
 
 
 ## Getting Started
